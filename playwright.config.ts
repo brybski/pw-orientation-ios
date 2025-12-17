@@ -56,7 +56,7 @@ export default defineConfig({
     {
       name: "Mobile Safari",
       testMatch: /iphone/,
-      use: { ...devices["iPhone 12"] },
+      use: { ...devices["iPhone 15 Pro"] },
     },
 
     /* Test against branded browsers. */
